@@ -1,3 +1,5 @@
+# Бот для управления сервером и базами 1с из телеграмма
+
 import telebot
 from telebot import types
 
