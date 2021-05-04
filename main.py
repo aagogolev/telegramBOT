@@ -3,7 +3,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('1770476779:AAEsupFUhVx8SM6Mh-gJ4Ri5AAC7_yJQvFU')
+bot = telebot.TeleBot('TOKEN')
 
 # Ответы или действия на текстовые команды
 @bot.message_handler(content_types=['text'])
